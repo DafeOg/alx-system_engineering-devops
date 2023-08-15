@@ -16,6 +16,7 @@ Calculation:  100.0% + (100.0% * 100.0%)  == 200.0%
 About Bash projects
 Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
+
 Resources
 Read or watch:
 
